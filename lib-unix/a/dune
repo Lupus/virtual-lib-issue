@@ -1,0 +1,6 @@
+(library
+ (name a_unix)
+ (public_name the-lib-unix.a)
+ (implements the-lib.a)
+ (variant native)
+ (libraries the-lib))

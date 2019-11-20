@@ -1,0 +1,10 @@
+EXCLUDE_QUERY_DIR
+B ../../_build/default/lib-unix/http/.a_unix.objs/byte
+B ../../_build/default/lib/.the_lib.objs/byte
+B ../../_build/default/lib/a/.a.objs/byte
+B ../../_build/default/lib/b/.b.objs/byte
+S ../../lib
+S .
+S ../../lib/a
+S ../../lib/b
+FLG -open A__a_unix__ -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs
