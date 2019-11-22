@@ -1,6 +1,4 @@
 (executable
  (name Example)
- (public_name Example)
- (package the-lib)
  (libraries a a_i_impl)
  (modules Example))

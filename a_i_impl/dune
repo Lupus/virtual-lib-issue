@@ -1,5 +1,4 @@
 (library
  (name a_i_impl)
- (public_name the-lib.a-i-impl)
- (implements the-lib.a-i)
+ (implements a_i)
  (libraries a))
