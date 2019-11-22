@@ -1,0 +1,4 @@
+(library
+ (name a_i)
+ (public_name the-lib.a-i)
+ (virtual_modules Virt_module))
