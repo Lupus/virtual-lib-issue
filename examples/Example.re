@@ -1,6 +1,6 @@
 
 let x =
-  B.Foo.bar();
+  A.Real_module.zzz();
 
 Printf.printf("x: %d\n%!", x);
 
