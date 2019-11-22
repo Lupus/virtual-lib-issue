@@ -1,5 +1,5 @@
 (library
  (name a_i_unix)
- (public_name the-lib-unix.a-i)
+ (public_name the-lib.unix.a-i)
  (implements the-lib.a-i)
  (libraries the-lib))

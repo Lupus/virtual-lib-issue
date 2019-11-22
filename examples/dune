@@ -1,6 +1,6 @@
 (executable
  (name Example)
  (public_name Example)
- (package the-lib-unix)
- (libraries the-lib-unix the-lib-unix.a-i)
+ (package the-lib)
+ (libraries the_lib_unix a_i_unix)
  (modules Example))

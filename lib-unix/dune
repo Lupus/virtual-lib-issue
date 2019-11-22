@@ -1,4 +1,4 @@
 (library
  (name the_lib_unix)
- (public_name the-lib-unix)
+ (public_name the-lib.unix)
  (libraries the-lib))
