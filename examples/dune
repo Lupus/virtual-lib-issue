@@ -2,6 +2,5 @@
  (name Example)
  (public_name Example)
  (package the-lib-unix)
- (libraries the-lib-unix)
- (variants native)
+ (libraries the-lib-unix the-lib-unix.a)
  (modules Example))
